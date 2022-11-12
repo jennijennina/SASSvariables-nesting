@@ -1,0 +1,3 @@
+@mixin schriftGroesse($groesse, $skalierung) {
+  font-size: $groesse * $skalierung;
+}
